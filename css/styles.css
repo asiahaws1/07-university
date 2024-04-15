@@ -82,7 +82,7 @@ nav ul li a:hover {
   color: #1f1300;
 }
 nav ul li.active a {
-  background-color: #ff9e06;
+  background-color: #915E1C;
 }
 
 div#mainWrapper {
@@ -107,7 +107,7 @@ form.my-form label {
 }
 form.my-form h3 {
   font-size: 0.9rem;
-  color: #cc5803;
+  color: black;
   margin: 1.5rem 0 0.2rem 0;
   border-bottom: 1px solid #eee;
 }
@@ -124,7 +124,7 @@ form.my-form select {
   border-bottom-width: 5px;
   border-bottom-color: #555;
   font-size: 1rem;
-  color: #1f1300;
+  color: #cc5803;
   width: 250px;
   padding: 0.5rem 16px;
 }
@@ -139,8 +139,8 @@ form.my-form input:required:valid {
 }
 form.my-form input[type=submit] {
   border: none;
-  background-color: #eca400;
-  color: #1f1300;
+  background-color: #915E1C;
+  color: white;
   border-radius: 1rem;
   padding: 0.75rem 1.5rem;
   margin: 2rem 0;
